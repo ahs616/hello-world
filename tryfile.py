@@ -1,6 +1,6 @@
 def main(msg):
-    // Print message
+    // Print different message
     print(msg)
 
-main("Hello Today People")
+main("Hello Tomorrow People")
 
